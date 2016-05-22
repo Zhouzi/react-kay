@@ -2,6 +2,12 @@
   "name": "react-kay",
   "version": "0.0.0",
   "description": "kay's React Higher Order Components",
+  "keywords": [
+    "react",
+    "validation",
+    "simple",
+    "client-side"
+  ],
   "main": "index.js",
   "files": [
     "FormMessagesHOC.js",
@@ -21,6 +27,14 @@
       "react"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zhouzi/react-kay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zhouzi/react-kay/issues"
+  },
+  "homepage": "https://github.com/Zhouzi/react-kay"
   "author": "Gabin Aureche <hello@gabinaureche.com>",
   "license": "MIT",
   "dependencies": {
