@@ -23,11 +23,12 @@ export default function FormMessagesHOC (InnerComponent) {
 
         const message = errors[error];
 
-        if (process.env.NODE_ENV !== 'production') {
-          if (typeof message == 'boolean') {
+        if (typeof message == 'boolean') {
+          if (process.env.NODE_ENV !== 'production') {
             console.error(`No message provided for error of type: ${error}`);
-            continue;
           }
+
+          continue;
         }
 
         messages.push(message);
