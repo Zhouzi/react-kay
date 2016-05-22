@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/Zhouzi/react-kay/issues"
   },
-  "homepage": "https://github.com/Zhouzi/react-kay"
+  "homepage": "https://github.com/Zhouzi/react-kay",
   "author": "Gabin Aureche <hello@gabinaureche.com>",
   "license": "MIT",
   "dependencies": {
