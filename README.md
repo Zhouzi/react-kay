@@ -1,3 +1,5 @@
+⚠️ Although react-kay was an interesting experiment, I do not recommend using it. There is already a myriad of feature complete schema validation library out there. Have a look at [ajv](https://github.com/epoberezkin/ajv) for example. ⚠️
+
 # react-kay
 
 [kay](https://github.com/Zhouzi/kay)'s React Higher Order Components
